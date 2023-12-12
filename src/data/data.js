@@ -1,0 +1,28 @@
+export const data = [
+    { value: 'cloud', label: 'Cloudiness %' },
+    { value: 'dewpoint_c', label: 'Dewpoint (°C)' },
+    { value: 'dewpoint_f', label: 'Dewpoint (°F)' },
+    { value: 'feelslike_c', label: 'Feels Like Temperature (°C)' },
+    { value: 'feelslike_f', label: 'Feels Like Temperature (°F)' },
+    { value: 'gust_kph', label: 'Wind Gust (kph)' },
+    { value: 'gust_mph', label: 'Wind Gust (mph)' },
+    { value: 'heatindex_c', label: 'Heat Index (°C)' },
+    { value: 'heatindex_f', label: 'Heat Index (°F)' },
+    { value: 'humidity', label: 'Humidity' },
+    { value: 'precip_mm', label: 'Precipitation (mm)' },
+    { value: 'pressure_in', label: 'Pressure (in)' },
+    { value: 'pressure_mb', label: 'Pressure (mb)' },
+    { value: 'temp_c', label: 'Temperature (°C)' },
+    { value: 'temp_f', label: 'Temperature (°F)' },
+    { value: 'uv', label: 'UV Index' },
+    { value: 'vis_km', label: 'Visibility (km)' },
+    { value: 'vis_miles', label: 'Visibility (miles)' },
+    { value: 'wind_degree', label: 'Wind Degree' },
+    { value: 'wind_dir', label: 'Wind Direction' },
+    { value: 'wind_kph', label: 'Wind Speed (kph)' },
+    { value: 'wind_mph', label: 'Wind Speed (mph)' },
+    { value: 'windchill_c', label: 'Windchill (°C)' },
+    { value: 'windchill_f', label: 'Windchill (°F)' },
+    // Add more options for other data
+];
+  
